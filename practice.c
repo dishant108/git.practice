@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-printf("my first git prg.");
+printf("my first git prg......");
 }
